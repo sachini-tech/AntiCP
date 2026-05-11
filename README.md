@@ -6,6 +6,8 @@ Welcome to the official repository for AntiCP 2.0, an updated and improved compu
 **Standalone (GitHub):** https://github.com/raghavagps/anticp2/
 **Docker Container:** https://webs.iiitd.edu.in/gpsrdocker/
 
+ZENODO : https://doi.org/10.5281/zenodo.20083367
+
 ---
 
 ## Citation
